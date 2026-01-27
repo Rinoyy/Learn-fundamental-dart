@@ -18,3 +18,10 @@ void main() {
 
 /// Output:
 /// {Jakarta: Indonesia, London: England, Tokyo: Japan, New Delhi: India}
+
+
+// map
+// kumpulan data yang memiliki key dan value
+// bisa berisi tipe data yang sama atau berbeda
+// bisa diakses menggunakan key
+// bisa diubah

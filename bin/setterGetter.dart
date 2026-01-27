@@ -39,3 +39,10 @@ class Animal {
     _weight = _weight - 0.1;
   }
 }
+
+// setter dan getter
+// setter digunakan untuk mengubah nilai properti
+// getter digunakan untuk mendapatkan nilai properti
+// ditandai dengan set dan get
+// bisa digunakan untuk mengubah nilai properti
+// bisa digunakan untuk mendapatkan nilai properti

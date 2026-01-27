@@ -17,3 +17,10 @@ void main() {
   // Object b = "halo";
   // b.toUpperCase();
 }
+
+// list
+// kumpulan data yang memiliki urutan
+// bisa berisi tipe data yang sama atau berbeda
+// bisa diakses menggunakan index
+// bisa diubah
+

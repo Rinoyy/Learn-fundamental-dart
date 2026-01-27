@@ -34,3 +34,17 @@ void greetNewUserPositional(String who, [String name = "dico", int? age = 10, bo
 
 // named optional parameter
 void greetNewUserNameOptional({String? name, int? age, bool? isVerified}){}
+
+
+// Positional optional parameter
+// parameter yang bisa diisi atau tidak
+// ditandai dengan []
+// bisa memiliki nilai default
+// pemanggilan harus berurutan
+
+
+
+// named optional parameter
+// parameter yang bisa diisi atau tidak
+// ditandai dengan {}
+// pemanggilan tidak harus berurutan

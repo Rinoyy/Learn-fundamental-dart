@@ -26,3 +26,9 @@ class Musician extends Performer with Singer, Dancer {
     perform();
   }
 }
+
+// mixin
+// class yang bisa digunakan sebagai tambahan fitur pada class lain
+// ditandai dengan with
+// bisa digunakan untuk menambahkan fitur pada class lain
+// tidak mewajibkan class turunannya untuk mengimplementasikan method

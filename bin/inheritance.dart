@@ -35,3 +35,8 @@ class Cat extends Animal {
     print('$name is walking');
   }
 }
+// inheritance
+// class yang bisa mewarisi properti dan method dari class lain
+// ditandai dengan extends
+// class yang mewarisi disebut child class
+// class yang diwarisi disebut parent class

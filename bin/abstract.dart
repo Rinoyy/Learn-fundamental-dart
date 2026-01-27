@@ -20,3 +20,8 @@ class GopayPayment extends PaymentGateway {
     print("Pay with Gopay: $amount");
   }
 }
+
+// abstract class
+// class yang tidak bisa di-instantiate
+// digunakan sebagai kontrak
+// mewajibkan class turunannya untuk mengimplementasikan method abstract
