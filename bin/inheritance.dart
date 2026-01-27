@@ -7,7 +7,7 @@ void main() {
   print(dicodingCat.weight);
 }
 
-class Animal {
+ class Animal {
   String name = '';
   int age = 0;
   double weight = 0;
@@ -28,8 +28,8 @@ class Cat extends Animal {
   final String furColor;
 
   Cat(String name, int age, double weight, String furColor)
-      : this.furColor = furColor,
-        super(name, age, weight);
+    : this.furColor = furColor,
+      super(name, age, weight);
 
   void walk() {
     print('$name is walking');
