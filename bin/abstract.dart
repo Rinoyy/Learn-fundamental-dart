@@ -1,5 +1,10 @@
 import 'dart:ffi';
 
+// abstract class Cache<T> {
+//   T getByKey(String key);
+//   void setByKey(String key, T value);
+// }
+
 void main(){
   var gopay = GopayPayment();
   gopay.pay(100);
